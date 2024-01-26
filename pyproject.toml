@@ -1,8 +1,9 @@
 [tool.poetry]
-name = "qa-guru-python-9-18"
+name = "qa_guru_python_9_18"
 version = "0.1.0"
 description = ""
 authors = ["Sergey Dobrovolskiy <21102027+vinterbris@users.noreply.github.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
